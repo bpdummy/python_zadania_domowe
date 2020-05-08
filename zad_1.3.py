@@ -26,4 +26,4 @@ elif 30 <= bmi <= 34.99:
 elif 35 <= bmi <= 39.99:
     print("Masz otyłość II stopnia. To może zagrażać Twojemu życiu i zdrowiu. Dieta w Twoim przypadku jest konieczna.")
 elif bmi >= 40:
-    print("Masz otyłość III. Jeśli nie zaczniesz się ograniczać i nie przejdziesz na dietę, niedługo umrzesz.")
+    print("Masz otyłość III stopnia. Jeśli nie zaczniesz się ograniczać i nie przejdziesz na dietę, niedługo umrzesz.")
